@@ -1,8 +1,8 @@
 # customer_management_system
 ### Tech Stack
-frontend: angular
-backend: Springboot
-database: MySQL
+1. frontend: angular
+2. backend: Springboot
+3. database: MySQL
 
 ### Description
 A simple project used to store customer information into database. 
