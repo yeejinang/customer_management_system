@@ -12,7 +12,7 @@ A simple project used to store customer information into database.
 ### 🔍Functionality
 User able to create new customer information, update existing info, view and delete info.
 #### create customer
-✔️ customer name, email, phone number, date of birthday cannot be blank <br />
+✔️ customer name, email, phone number, date of birth cannot be blank <br />
 ✔️ existence of phone number is checked before adding into database  <br />
 ✔️ customer's age calculated instead of hardcoded  <br />
 ✔️ check validation of phone number by regular expression (Malaysia Standard)  <br />
