@@ -3,11 +3,10 @@
 1. frontend: angular
 2. backend: Springboot
 3. database: MySQL
-
+<br />
 ### 🔈Description
 A simple project used to store customer information into database.
-
-
+<br />
 ### 🔍Functionality
 User able to create new customer information, update existing info, view and delete info.
 #### create customer
