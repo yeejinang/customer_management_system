@@ -9,7 +9,9 @@
 A simple project used to store customer information into database.
 
 <figure class="video_container">
-  <iframe src="./customer_management_system.mov" frameborder="0" allowfullscreen="true"> </iframe>
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="./customer_management_system.mov" type="video/mp4">
+  </video>
 </figure>
 
 <br />
