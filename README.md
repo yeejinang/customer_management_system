@@ -7,8 +7,8 @@
 
 ### 🔈Description
 A simple project used to store customer information into database.
-Uploading customer_management_system.mov…
-
+<figure class="video_container">
+  <iframe src="./customer_management_system.mov" frameborder="0" allowfullscreen="true"> </iframe>
 
 <br />
 
