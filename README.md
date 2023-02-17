@@ -8,11 +8,7 @@
 ### 🔈Description
 A simple project used to store customer information into database.
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="./customer_management_system.mov" type="video/mp4">
-  </video>
-</figure>
+https://user-images.githubusercontent.com/81152890/219538997-3570c400-32bc-46b4-bcc2-f34c10dd52b7.mp4
 
 <br />
 
